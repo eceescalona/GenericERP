@@ -76,5 +76,18 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Data\ORM\Configurations\" />
+    <Folder Include="Data\ORM\Context\" />
+    <Folder Include="Data\ORM\Entitys\" />
+    <Folder Include="Data\ORM\Migrations\" />
+    <Folder Include="Data\POCOS\" />
+    <Folder Include="Data\Repository\Interfaces\" />
+    <Folder Include="Domain\Controllers\" />
+    <Folder Include="Domain\Models\" />
+    <Folder Include="Domain\Views\Main\" />
+    <Folder Include="Resources\Database\" />
+    <Folder Include="Resources\Images\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
