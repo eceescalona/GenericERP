@@ -90,7 +90,7 @@
   <ItemGroup>
     <Folder Include="Data\ORM\Configurations\" />
     <Folder Include="Data\ORM\Context\" />
-    <Folder Include="Data\ORM\Entitys\" />
+    <Folder Include="Data\ORM\Entities\" />
     <Folder Include="Data\ORM\Migrations\" />
     <Folder Include="Data\POCOS\" />
     <Folder Include="Data\Repository\Interfaces\" />
